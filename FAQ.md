@@ -36,7 +36,7 @@ Make sure you followed through the [deployment instructions](#deployment) in the
 
 ---
 
-### My webpage works locally. But after deploying, it is not displayed correctly (CSS and JS are not loaded properly). How do I fix that?
+<!-- ### My webpage works locally. But after deploying, it is not displayed correctly (CSS and JS are not loaded properly). How do I fix that?
 
 If the website does not load the theme, the layout looks weird, and all links are broken, being the main page displayed this way:
 
@@ -46,7 +46,7 @@ make sure to correctly specify the `url` and `baseurl` paths in `_config.yml`. S
 
 - press [Shift + F5 on Chromium-based](https://support.google.com/chrome/answer/157179#zippy=%2Cwebpage-shortcuts) or [Ctrl + F5 on Firefox-based](https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly) browsers to reload the page ignoring cached content
 - clean your browser history
-- simply try it in a private session, here's how to do it in [Chrome](https://support.google.com/chrome/answer/95464) and [Firefox](https://support.mozilla.org/en-US/kb/private-browsing-use-firefox-without-history)
+- simply try it in a private session, here's how to do it in [Chrome](https://support.google.com/chrome/answer/95464) and [Firefox](https://support.mozilla.org/en-US/kb/private-browsing-use-firefox-without-history) -->
 
 ---
 
