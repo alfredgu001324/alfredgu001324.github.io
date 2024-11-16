@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<a href="https://arxiv.org/abs/2407.06683">One paper</a> accepted by ECCV 2024! :smile:
+[One paper](https://arxiv.org/abs/2407.06683) accepted by ECCV 2024! :smile:

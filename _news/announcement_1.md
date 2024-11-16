@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<a href="https://arxiv.org/abs/2403.16439">One paper</a> accepted by CVPR 2024! :smile:
+[One paper](https://arxiv.org/abs/2403.16439) accepted by CVPR 2024! :smile:
