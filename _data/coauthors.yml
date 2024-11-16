@@ -1,13 +1,16 @@
 "boris_ivanovic":
-  - firstname: ["Boris", "Boris Ivanovic"]
+    firstname: "Boris"
+    lastname: "Ivanovic"
     url: https://www.borisivanovic.com/
 
 "marco_pavone":
-  - firstname: ["Marco", "Marco Pavone"]
+    firstname: "Marco"
+    lastname: "Pavone"
     url: https://web.stanford.edu/~pavone/index.html
 
 "igor":
-  - firstname: ["Igor", "Igor Gilitschenski"]
+    firstname: "Igor"
+    lastname: "Gilitschenski"
     url: https://www.gilitschenski.org/igor/
 
 # "adams":
