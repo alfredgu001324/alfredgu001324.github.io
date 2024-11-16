@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-<a href="https://arxiv.org/abs/2403.16439">"Producing and Leveraging Online Map Uncertainty in Trajectory Prediction"</a> is a **Best Paper Award Finalist** at CVPR 2024! **Top 0.2% of all submissions (24/11,532)** :sparkles:
+[Producing and Leveraging Online Map Uncertainty in Trajectory Prediction](https://arxiv.org/abs/2403.16439) is a **Best Paper Award Finalist** at CVPR 2024! **Top 0.2% of all submissions (24/11,532)** :sparkles:
 
 <!-- ---
 layout: post
