@@ -24,9 +24,9 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 My name is **Xunjiang (Alfred) Gu**, and I am a first-year Master's student at the **University of Toronto**, supervised by [Prof. Igor Gilitschenski](https://www.gilitschenski.org/igor/). I completed my Bachelor of Applied Science in [Engineering Science](https://discover.engineering.utoronto.ca/programs/engineering-programs/engineering-science/) at the **University of Toronto**, specializing in Robotics with a Business minor.
 
-Previously, I interned at **Noah's Ark Lab, Huawei Technologies Canada**, under the guidance of [Dr. Amir Rasouli](https://aras62.github.io/), where I contributed to autonomous driving research. I also spent a wonderful summer at **NVIDIA** as a joint Product/[Research](https://research.nvidia.com/labs/avg/) intern, supervised by [Dr. Urs Muller](https://www.linkedin.com/in/ursmuller/) and [Dr. Boris Ivanovic](https://www.borisivanovic.com/), focusing on autonomous driving technologies.
+Previously, I interned at **Noah's Ark Lab, Huawei Technologies Canada**, under the guidance of [Dr. Amir Rasouli](https://aras62.github.io/), where I contributed to autonomous driving research. I also spent a wonderful summer at **NVIDIA** as a joint Product/[Research](https://research.nvidia.com/labs/avg/) intern, supervised by [Dr. Urs Muller](https://www.linkedin.com/in/ursmuller/) and [Dr. Boris Ivanovic](https://www.borisivanovic.com/), focusing on autonomous driving technologies. Currently, I am working with [Dr. Kashyap Chitta](https://kashyap7x.github.io/) on modeling vehicle dynamics at vehicles’ operating limits and in various extreme scenarios. 
 
-My current research interests include autonomous driving, trajectory prediction, and vehicle dynamics modeling. I am particularly interested in advancing the safety and reliability of autonomous vehicles and robotics applications for real-world deployment.
+My research interests include autonomous driving, trajectory prediction, and vehicle dynamics modeling. I am particularly interested in advancing the safety and reliability of autonomous vehicles and robotics applications for real-world deployment.
 
 Feel free to reach out to me via email if you have any questions, or simply want to have a chat!
 
