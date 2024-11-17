@@ -22,4 +22,11 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-My name is Xunjiang (Alfred) Gu and I am a Master student supervised by Prof. Igor Gilitschenski. I finished my BASc in Engineering Science at the University of Toronto, majoring in Robotics with a Business minor. My current research interests include Autonomous Driving, Trajectory Prediction and any Agent Modeling Task.
+My name is **Xunjiang (Alfred) Gu**, and I am a first-year Master's student at the **University of Toronto**, supervised by [Prof. Igor Gilitschenski](https://www.gilitschenski.org/igor/). I completed my Bachelor of Applied Science in [Engineering Science](https://discover.engineering.utoronto.ca/programs/engineering-programs/engineering-science/) at the **University of Toronto**, specializing in Robotics with a Business minor.
+
+Previously, I interned at **Noah's Ark Lab, Huawei Technologies Canada**, under the guidance of [Dr. Amir Rasouli](https://aras62.github.io/), where I contributed to autonomous driving research. I also spent a wonderful summer at **NVIDIA** as a joint Product/[Research](https://research.nvidia.com/labs/avg/) intern, supervised by [Dr. Urs Muller](https://www.linkedin.com/in/ursmuller/) and [Dr. Boris Ivanovic](https://www.borisivanovic.com/), focusing on autonomous driving technologies.
+
+My current research interests include autonomous driving, trajectory prediction, and vehicle dynamics modeling. I am particularly interested in advancing the safety and reliability of autonomous vehicles and robotics applications for real-world deployment.
+
+Feel free to reach out to me via email if you have any questions, or simply want to have a chat!
+
